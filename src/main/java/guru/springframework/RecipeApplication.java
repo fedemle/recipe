@@ -1,4 +1,4 @@
-package guru.springframework.recipe;
+package guru.springframework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,5 +10,5 @@ public class RecipeApplication {
         SpringApplication.run(RecipeApplication.class, args);
     }
 
-}
+}   
 
